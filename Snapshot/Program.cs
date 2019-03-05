@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using CommandLine;
+﻿using CommandLine;
 using MipSdkHelper;
-using VideoOS.Platform.Live;
+using System;
+using System.IO;
 
 namespace Snapshot
 {
